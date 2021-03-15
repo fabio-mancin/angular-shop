@@ -1,7 +1,7 @@
 {
-  "name": "jrqkrrdrxeg.angular",
-  "version": "0.0.0",
-  "private": true,
+  "name": "angular-shop",
+  "version": "1.0.0",
+  "private": false,
   "dependencies": {
     "rxjs": "6.6.6",
     "tslib": "2.1.0",
